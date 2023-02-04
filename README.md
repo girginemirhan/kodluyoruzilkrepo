@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # İlk Repo Değişikliğim
 
 
-## Markdowlar ile yapacağım değişiklikler;
+## Markdownlar ile yapacağım değişiklikler;
 
 >- *Resim eklenecek*
 
